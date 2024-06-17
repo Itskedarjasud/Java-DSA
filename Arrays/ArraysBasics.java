@@ -207,7 +207,7 @@ public class ArraysBasics {
 
 
         // SubArrays within the array
-        int array[] = {5,8,6,7,2,4};
+        int array[] = {1, -2, 6, -1, 3};
         Subarray(array);
     }
 
